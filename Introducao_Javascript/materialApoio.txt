@@ -1,0 +1,15 @@
+DICAS SOBRE O VSCODE
+
+> extensoes de arquivos: 
+.js     javascript
+.html
+.cs     CSS
+
+> preferencias: ctrl+,
+
+> mostrar atalhos: ctrl+k, ctrl+s 
+
+
+
+
+
