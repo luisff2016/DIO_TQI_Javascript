@@ -1,0 +1,1 @@
+alert("Externar o script!")
